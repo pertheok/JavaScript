@@ -1,0 +1,11 @@
+{
+  "name": "phptest",
+  "version": "1.0.0",
+  "description": "You will find an empty index.php and index.js file and a products.json file.  You should use data in the products.json file to complete the below tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
